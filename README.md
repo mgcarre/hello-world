@@ -1,2 +1,6 @@
 # hello-world
-Just a starter repo
+
+Hey everyone !
+Starting coding today. Hope we'll enjoy...
+Planning to create some cool stuff coded in PHP, JSX and JS. 
+Let's see where it takes me...
